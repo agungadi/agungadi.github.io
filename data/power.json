@@ -1,41 +1,41 @@
 
     {"powercoil": [
        {
-            "id": 1,
-            "nama": "PLTS1",
-			"kapasitas": "10",
-			"terisi" : "5",
-			"arus_dc" : "250",
-            "gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
-            "radiasi_matahari": "4.8",
-            "deskripsi": "Pembangkit Listrik Tenaga Surya",
-			"jumlah_panel" : "1000",
-			"kordinat":"-6.478927, 107.481261"
+	       "id": 1,
+	       "nama": "PLTS1",
+	       "kapasitas": "10",
+	       "terisi" : "5",
+	       "arus_dc" : "250",
+	       "gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+	       "radiasi_matahari": "4.8",
+	       "deskripsi": "Pembangkit Listrik Tenaga Surya",
+	       "jumlah_panel" : "1000",
+	       "kordinat":"-6.478927, 107.481261"
 
         },
         {
-             "id": 2,
-            "nama": "PLTS2",
-			"kapasitas": "15",
-			"terisi" : "4",
-			"arus_dc" : "250",
-            "logo_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
-            "radiasi_matahari": "4.8",
-            "deskripsi": "Pembangkit Listrik Tenaga Surya",
-			"jumlah_panel" : "1500",
-			"kordinat":"-6.478927, 107.481261"
+		"id": 2,
+		"nama": "PLTS2",
+		"kapasitas": "15",
+		"terisi" : "4",
+		"arus_dc" : "250",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"radiasi_matahari": "4.8",
+		"deskripsi": "Pembangkit Listrik Tenaga Surya",
+		"jumlah_panel" : "1500",
+		"kordinat":"-6.478927, 107.481261"
         },
-		{
-             "id": 3,
-            "nama": "PLTS3",
-			"kapasitas": "12",
-			"terisi" : "4",
-			"arus_dc" : "250",
-            "logo_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
-            "radiasi_matahari": "4.8",
-            "deskripsi": "Pembangkit Listrik Tenaga Surya",
-			"jumlah_panel" : "1200",
-			"kordinat":"-6.478927, 107.481261"
+	{
+		"id": 3,
+		"nama": "PLTS3",
+		"kapasitas": "12",
+		"terisi" : "4",
+		"arus_dc" : "250",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"radiasi_matahari": "4.8",
+		"deskripsi": "Pembangkit Listrik Tenaga Surya",
+		"jumlah_panel" : "1200",
+		"kordinat":"-6.478927, 107.481261"
         }
 	]}
 
