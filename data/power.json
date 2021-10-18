@@ -47,6 +47,18 @@
 		"deskripsi": "Pembangkit Listrik Tenaga Surya",
 		"jumlah_panel" : "1000",
 		"kordinat":"-6.448901, 107.481311"
+        }, 
+	{
+		"id": 5,
+		"nama": "PLTB1",
+		"kapasitas": "10",
+		"terisi" : "9",
+		"arus_dc" : "250",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"radiasi_matahari": "4.9",
+		"deskripsi": "Pembangkit Listrik Tenaga Bayu",
+		"jumlah_panel" : "1000",
+		"kordinat":"-6.448711, 107.481201"
         }
 	]}
 
