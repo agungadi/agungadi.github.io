@@ -71,6 +71,18 @@
 		"deskripsi": "Pembangkit Listrik Tenaga Bayu",
 		"jumlah_panel" : "1000",
 		"kordinat":"-6.448771, 107.4812101"
+        },
+	{
+		"id":7,
+		"nama": "PLTB3",
+		"kapasitas": "10",
+		"terisi" : "10",
+		"arus_dc" : "250",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"radiasi_matahari": "7",
+		"deskripsi": "Pembangkit Listrik Tenaga Bayu",
+		"jumlah_panel" : "1000",
+		"kordinat":"-6.448521, 107.4852401"
         }
 	]}
 
