@@ -10,7 +10,7 @@
 	       "radiasi_matahari": "4.8",
 	       "deskripsi": "Pembangkit Listrik Tenaga Surya",
 	       "jumlah_panel" : "1000",
-	       "kordinat":"-6.478927, 107.481261"
+	       "kordinat":"-7.2369247, 111.894956"
         },
         {
 		"id": 2,
@@ -18,11 +18,11 @@
 		"kapasitas": "15",
 		"terisi" : "4",
 		"arus_dc" : "250",
-		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/138590409-a010cf5e-4ec8-4b77-a577-eb6340ac6fa8.jpg",
 		"radiasi_matahari": "4.8",
 		"deskripsi": "Pembangkit Listrik Tenaga Surya",
 		"jumlah_panel" : "1500",
-		"kordinat":"-6.478927, 107.481261"
+		"kordinat":"-7.1890568, 111.89927"
         },
 	{
 		"id": 3,
@@ -30,11 +30,11 @@
 		"kapasitas": "12",
 		"terisi" : "4",
 		"arus_dc" : "250",
-		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/138590414-5571f10d-5162-4c2a-9551-250cf26bbd0c.jpg",
 		"radiasi_matahari": "4.8",
 		"deskripsi": "Pembangkit Listrik Tenaga Surya",
 		"jumlah_panel" : "1200",
-		"kordinat":"-6.478927, 107.481261"
+		"kordinat":"-7.1310719, 111.8903931"
         },
 	    	{
 		"id": 4,
@@ -42,23 +42,23 @@
 		"kapasitas": "10",
 		"terisi" : "10",
 		"arus_dc" : "250",
-		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/138590419-c2447683-da3c-460b-b86b-c5d92c4b9a6d.jpg",
 		"radiasi_matahari": "4.9",
 		"deskripsi": "Pembangkit Listrik Tenaga Surya",
 		"jumlah_panel" : "1000",
-		"kordinat":"-6.448901, 107.481311"
+		"kordinat":"-7.1970194, 111.8666287"
         }, 
 	{
 		"id": 5,
 		"nama": "PLTB1",
 		"kapasitas": "10",
-		"terisi" : "9",
+		"terisi" : "10",
 		"arus_dc" : "250",
-		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/138590211-af638eb0-a111-42eb-bd54-76301349c266.jpg",
 		"radiasi_matahari": "7",
 		"deskripsi": "Pembangkit Listrik Tenaga Bayu",
-		"jumlah_panel" : "1000",
-		"kordinat":"-6.448711, 107.481201"
+		"jumlah_panel" : "10",
+		"kordinat":"-7.1168661, 111.8523328"
         },
 	{
 		"id": 6,
@@ -66,23 +66,35 @@
 		"kapasitas": "10",
 		"terisi" : "10",
 		"arus_dc" : "250",
-		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/138590244-16549587-726a-460f-a7ca-977b88dca316.jpeg",
 		"radiasi_matahari": "10",
 		"deskripsi": "Pembangkit Listrik Tenaga Bayu",
-		"jumlah_panel" : "1000",
-		"kordinat":"-6.448771, 107.4812101"
+		"jumlah_panel" : "10",
+		"kordinat":"-7.0866799, 111.8914612"
         },
 	{
 		"id":7,
 		"nama": "PLTB3",
-		"kapasitas": "10",
-		"terisi" : "10",
+		"kapasitas": "12",
+		"terisi" : "12",
 		"arus_dc" : "250",
-		"gambar_url": "https://user-images.githubusercontent.com/25838868/137607309-230ed2b7-c1c1-4e5d-8beb-6ec60ca90745.jpg",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/138590298-687f5d69-43bc-4581-b89d-0ce23181e3eb.jpg",
 		"radiasi_matahari": "7",
 		"deskripsi": "Pembangkit Listrik Tenaga Bayu",
-		"jumlah_panel" : "1000",
-		"kordinat":"-6.448521, 107.4852401"
+		"jumlah_panel" : "12",
+		"kordinat":"-7.0812897, 111.8435706"
+        },
+	{
+		"id":8,
+		"nama": "PLTB4",
+		"kapasitas": "15",
+		"terisi" : "13",
+		"arus_dc" : "250",
+		"gambar_url": "https://user-images.githubusercontent.com/25838868/138590314-788d0f14-e4d2-469e-a5b7-73f5a528dee0.jpg",
+		"radiasi_matahari": "8",
+		"deskripsi": "Pembangkit Listrik Tenaga Bayu",
+		"jumlah_panel" : "15",
+		"kordinat":"-7.0812897, 111.8435706"
         }
 	]}
 
