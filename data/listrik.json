@@ -1,6 +1,6 @@
 {"result":[
     {
-        "id":"1",
+        "id":1,
         "nama":"PLTS1",
         "kapasitas":"10",
         "terisi":"5",
@@ -12,7 +12,7 @@
         "koordinat":"-7.2369247, 111.894956"
     },
     {
-        "id":"2",
+        "id":2,
         "nama":"PLTS2",
         "kapasitas":"15",
         "terisi":"4",
